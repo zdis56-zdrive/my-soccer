@@ -5,3 +5,7 @@ h1 {
 .players li {
     background: lightblue;
 }
+
+.teams li {
+    background: lightgreen;
+}
